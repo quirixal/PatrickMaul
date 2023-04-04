@@ -3,89 +3,17 @@
 -->
 <h1 align="center"><b>Hey there, I'm Patrick</b> 🦜</h1>
 <p>
-  At the moment I am training to be a developer. My goal is to become a full stack developer. I am currently preparing for the mid-term exam, so I work a little less on my projects. With Three.js I recreated the solar system or developed a small login with Flask, vue.js and MySQL. After my mid-term exam i want to create my GitHub-Page and finish the login and the solar system. But i'm allways open for new projects and collabrations.
+At the moment I'm doing an apprenticeship as a developer (IT specialist with a focus on application development). I am currently preparing for my exam, so I work a little less on my projects.
 </p>
 <br>
 <br>
 <h2>🔭 I’m currently working on ...</h2>
 <ul>
   <li>
-    This Repo 🦜
-  </li>
-  <li>
-    Simple Login 🚪
-    <ul>
-      <li>Frontend build with vue.js</li>
-      <li>Backend build with Python/Flask and MySQL</li>
-    </ul>
-  </li>
-  <li>
-    Solar System 🌍
-    <ul>
-      <li>Build with Three.js</li>
-    </ul>
-  </li>
-   <li>
-    Vue-Components
-    <ul>
-      <li>Build with/for vue.js</li>
-      <li>made public via npm</li>
-    </ul>
+    Collection of Python Classes
   </li>
 </ul>
 <br>
-<h2>🌱 I’m currently learning ...</h2>
-<ul>
-  <li>
-    Frontend
-    <ul>
-      <li>Vue.js (Nuxt.js)</li>
-      <li>React (Next.js)</li>
-      <li>Three.js</li>
-    </ul>
-  </li>
-  <li>
-    Backend
-    <ul>
-      <li>Python</li>
-      <li>Flask</li>
-      <li>SQL</li>
-    </ul>
-  </li>
-   <li>
-    Vue-Components
-    <ul>
-      <li>Build with/for vue.js</li>
-      <li>made public via npm</li>
-    </ul>
-  </li>
-</ul>
-<br>
-<h2>🌴 My skills ...</h2>
-<ul>
-  <li>
-    Frontend
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JS</li>
-      <li>Vue.js</li>
-    </ul>
-  </li>
-  <li>
-    Backend
-    <ul>
-      <li>SQL</li>
-    </ul>
-  </li>
-  <li>
-    Tools
-    <ul>
-      <li>VSCode</li>
-      <li>SSMS</li>
-    </ul>
-  </li> 
-</ul>
 <br>
 <br>
 <h2 align="center">📫 How to reach me:</h2>
