@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=patrickmaul&label=Profile%20views&color=0e75b6&style=flat" alt="patrickmaul" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickmaul&label=Profile%20views&color=0e75b6&style=flat-square" alt="patrickmaul" /> </p>
 
 - 🔭 I’m currently working on [Cheat-Sheet](https://patrickmaul.github.io/cheatsheet/)
 
@@ -40,12 +38,10 @@
 <p><a href="https://www.buymeacoffee.com/patrickmaul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patrickmaul" /></a></p><br><br>
 
 <h3 align="left">Statistics & Trophy's:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickmaul&show_icons=true&locale=en&layout=compact" alt="patrickmaul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickmaul&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="patrickmaul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickmaul&show_icons=true&locale=en" alt="patrickmaul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickmaul&show_icons=true&theme=synthwave&locale=en" alt="patrickmaul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickmaul&" alt="patrickmaul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickmaul&theme=dark" alt="patrickmaul" /></p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickmaul" alt="patrickmaul" /></a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickmaul" alt="patrickmaul" /></a> </p>
