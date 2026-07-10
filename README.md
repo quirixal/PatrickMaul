@@ -22,14 +22,10 @@
 
 <div align="center">
 
-<a href="https://de.linkedin.com/in/patrick-maul-81ab801a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-PLACEHOLDER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/patrickmlml?igsh=MWpscHF1NzFtaWZ5OA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-PLACEHOLDER-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://de.linkedin.com/in/patrick-maul-81ab801a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Patrick Maul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.buymeacoffee.com/patrickmaul" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 
 </div>
-
-> Ersetze die `#`-Links und "PLACEHOLDER"-Texte oben mit deinen echten Profil-URLs, sobald du sie hast.
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -41,24 +37,24 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/><br>HTML5
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" alt="html5"/><br>HTML5
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/><br>CSS3
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" alt="css3"/><br>CSS3
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/><br>Sass
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40" alt="sass"/><br>Sass
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"/><br>Bootstrap
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40" alt="bootstrap"/><br>Bootstrap
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/><br>JavaScript
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40" alt="javascript"/><br>JavaScript
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vuejs"/><br>Vue.js
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40" alt="vuejs"/><br>Vue.js
 </td>
 <td align="center" width="96">
 <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" width="40" height="40" alt="vuetify" onerror="this.style.display='none'"/><br>Vuetify
@@ -67,7 +63,7 @@
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40" alt="nuxtjs"/><br>Nuxt.js
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40" alt="pug"/><br>Pug
+<img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" width="40" height="40" alt="pug"/><br>Pug
 </td>
 </tr>
 </table>
@@ -77,13 +73,16 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/><br>Node.js
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="nodejs"/><br>Node.js
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/><br>Python
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="python"/><br>Python
 </td>
 <td align="center" width="96">
-<img src="https://images.icon-icons.com/2389/PNG/512/flask_logo_icon_145276.png" width="40" height="40" alt="flask"/><br>Flask
+<img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="40" height="40" alt="flask"/><br>Flask
+</td>
+<td align="center" width="96">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6y7-_n8Km0_qiuibfkwK3Oxj_37Xg-cm-etb8UQxvTvg0QZnWr0-b1bQ&s=10" width="40" height="40" alt="flask"/><br>FastAPI
 </td>
 </tr>
 </table>
@@ -93,13 +92,13 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/><br>MySQL
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="mysql"/><br>MySQL
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="mariadb"/><br>MariaDB
 </td>
 <td align="center" width="96">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="mssql"/><br>MSSQL
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40" alt="mssql"/><br>MSSQL
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="firebase"/><br>Firebase
@@ -112,19 +111,30 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/><br>Docker
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40" height="40" alt="docker"/><br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/><br>Nginx
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" alt="nginx"/><br>Nginx
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/><br>Git
 </td>
 <td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="git"/><br>Github
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/><br>Gitlab
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="elasticsearch"/><br>Elasticsearch
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40" alt="kibana"/><br>Kibana
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" width="40" height="40" alt="kibana"/><br>Gitkraken
 </td>
 </tr>
 </table>
