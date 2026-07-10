@@ -84,7 +84,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/><br>Python
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="flask"/><br>Flask
+<img src="https://images.icon-icons.com/2389/PNG/512/flask_logo_icon_145276.png" width="40" height="40" alt="flask"/><br>Flask
 </td>
 </tr>
 </table>
