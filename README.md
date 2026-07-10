@@ -61,7 +61,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vuejs"/><br>Vue.js
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/vuetifyjs/vuetifyjs-icon.svg" width="40" height="40" alt="vuetify" onerror="this.style.display='none'"/><br>Vuetify
+<img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" width="40" height="40" alt="vuetify" onerror="this.style.display='none'"/><br>Vuetify
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40" alt="nuxtjs"/><br>Nuxt.js
@@ -125,6 +125,19 @@
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40" alt="kibana"/><br>Kibana
+</td>
+</tr>
+</table>
+
+### 🚢 AI Coding Agents
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" width="40" height="40" alt="docker"/><br>Codex
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claudecode-color.png" width="40" height="40" alt="nginx"/><br>Claude Code
 </td>
 </tr>
 </table>
