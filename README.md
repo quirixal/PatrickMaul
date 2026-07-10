@@ -22,9 +22,8 @@
 
 <div align="center">
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-PLACEHOLDER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter%2FX-PLACEHOLDER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X placeholder"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-PLACEHOLDER-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram placeholder"/></a>
+<a href="https://de.linkedin.com/in/patrick-maul-81ab801a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-PLACEHOLDER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/patrickmlml?igsh=MWpscHF1NzFtaWZ5OA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-PLACEHOLDER-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.buymeacoffee.com/patrickmaul" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 
 </div>
